@@ -1,0 +1,31 @@
+[{
+        "ID": "title",
+        "Chinese": "simple Translation",
+        "English": "simple Translation"
+    },
+    {
+        "ID": "content",
+        "Chinese": "这是一个简单的页面翻译工具，或者叫国际化工具。主要功能就是为网站提供多语言支持",
+        "English": "This is exmple page for simple Translation which a simple tools to translate your web Page"
+    },
+    {
+        "ID": "li1",
+        "Chinese": "使用简单",
+        "English": "easy to use and learn"
+    },
+    {
+        "ID": "li2",
+        "Chinese": "可以显示默认语言，根据游览器自动切换，以及设置语言",
+        "English": "you can set default language,or switch by brower,or set by users"
+    },
+    {
+        "ID": "btn1",
+        "Chinese": "设置为中文",
+        "English": "Translate to Chinese"
+    },
+    {
+        "ID": "btn2",
+        "Chinese": "设置为英文",
+        "English": "Translate to English"
+    }
+]

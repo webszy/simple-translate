@@ -1,0 +1,19 @@
+{
+    "name": "simple-translate",
+    "version": "1.0.0",
+    "description": "simple-translate powered by jquery,it can translate your page for anylanguage",
+    "main": "translate.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/webszy/simple-translate.git"
+    },
+    "author": "webszy",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/webszy/simple-translate/issues"
+    },
+    "homepage": "https://github.com/webszy/simple-translate#readme"
+}
